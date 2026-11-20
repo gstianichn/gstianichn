@@ -34,8 +34,9 @@ I enjoy building clean, responsive web applications, integrating payment gateway
 ### 🌟 Featured Projects
 
 - **[ResepKu](https://resep-ku-tawny.vercel.app/)** — Aplikasi web resep masakan berbasis React yang terintegrasi dengan Gemini API.
-- **[Gamis Custom App](https://gamis-custom-app-web.vercel.app/)** — Antarmuka e-commerce pakaian kustom dengan fitur keranjang, *checkout*, dan pelacakan pesanan.
 - **Travelku** — Sistem pemesanan tiket shuttle multi-role (Superadmin, Customer, Staff, Driver, CS) dengan pemilihan kursi, QR e-ticket, dan integrasi pembayaran Midtrans.
+- **Hotel Booking System** — Aplikasi web pemesanan kamar hotel dengan fitur pencarian ketersediaan kamar, reservasi online, dan manajemen data tamu.
+- **Sistem Manajemen Kost** — Aplikasi pengelolaan properti kost yang mencakup pendataan kamar, data penghuni, pencatatan tagihan sewa, dan laporan pembayaran.
 
 ---
 
